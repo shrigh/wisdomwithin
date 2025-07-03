@@ -38,7 +38,7 @@ export default function WisdomWithinWireframe() {
       </header>
 
       <section className="flex flex-col items-center justify-center text-center p-8 md:p-20 bg-gradient-to-r from-orange-100 to-yellow-100">
-        <img src="/lotus-placeholder.png" alt="Lotus" className="w-24 h-24 mb-4" />
+        <img src="../lotus-placeholder.png" alt="Lotus" className="w-24 h-24 mb-4" />
         <h1 className="text-3xl md:text-5xl font-bold mb-4">Overcome Life’s Obstacles with Timeless Hindu Wisdom</h1>
         <p className="mb-6 max-w-xl">Get personalized answers rooted in the Vedas, Upanishads, Gita, Puranas and more.</p>
         <button className="bg-orange-500 text-white px-6 py-3 rounded-xl">Ask Your First Question</button>
