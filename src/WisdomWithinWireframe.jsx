@@ -90,8 +90,8 @@ export default function WisdomWithinWireframe() {
         <h2 className="text-2xl font-bold mb-4">Choose Your Path</h2>
         <div className="grid md:grid-cols-2 gap-8 max-w-xl mx-auto">
           <div className="border p-4 rounded-xl">
-            <h3 className="font-semibold mb-2">Free Plan</h3>
-            <p>Ask 3 questions complimentary</p>
+            <h3 className="font-semibold mb-2">Pay Per Question</h3>
+            <p>₹ 299 per question</p>
           </div>
           <div className="border p-4 rounded-xl">
             <h3 className="font-semibold mb-2">PowerWithin Premium (₹ 2,999/year)</h3>
